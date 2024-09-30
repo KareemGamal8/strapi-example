@@ -1,3 +1,4 @@
+// File: config/env/production/middlewares.js
 module.exports = ({ env }) => [
     "strapi::logger",
     "strapi::errors",
