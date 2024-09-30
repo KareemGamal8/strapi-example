@@ -1,3 +1,5 @@
+// File: config/env/production/plugins.js
+
 module.exports = ({ env }) => ({
   upload: {
     config: {
